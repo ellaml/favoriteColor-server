@@ -1,4 +1,4 @@
-# Favorite Colro - Server
+# Favorite Color - Server
 
 Java server using Spring framework.
 DB - mySql.
